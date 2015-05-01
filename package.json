@@ -18,5 +18,11 @@
   "homepage": "https://github.com/AgtLucas/scaling-archer",
   "dependencies": {
     "react": "^0.13.2"
+  },
+  "devDependencies": {
+    "babel": "^5.2.2",
+    "babel-core": "^5.2.2",
+    "babel-loader": "^5.0.0",
+    "webpack": "^1.8.11"
   }
 }
