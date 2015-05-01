@@ -17,9 +17,9 @@ class Item extends React.Component {
    * @method render
    * @returns {JSX}
    */
-   render () {
-    return <li className="cart-item">{this.props.item.title} - ${this.props.item.price}</li>;
-   }
+  render () {
+  return <li className="cart-item">{this.props.item.title} - ${this.props.item.price}</li>;
+  }
 }
 
 Item.propTypes = {
