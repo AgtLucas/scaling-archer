@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/AgtLucas/scaling-archer",
   "dependencies": {
+    "debug": "^2.1.3",
     "react": "^0.13.2"
   },
   "devDependencies": {
